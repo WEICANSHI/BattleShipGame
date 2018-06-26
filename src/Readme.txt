@@ -17,3 +17,4 @@ prepare done then to start the battle.
 In the battle, player who join by dns move first. if player don't move
 after timer end, he would loss.
 
+To start the program, clone the repository and execut 
